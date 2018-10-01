@@ -1,0 +1,1 @@
+# http-pad.odoo.com
